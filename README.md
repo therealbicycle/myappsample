@@ -1,2 +1,2 @@
 #MyApp
-this is myapp, traversy tutorial on git
+This is myapp, traversy tutorial on git.
